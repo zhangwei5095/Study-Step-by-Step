@@ -37,6 +37,7 @@ Study-Step-by-Step
 * [Web服务器工作原理概述](http://www.importnew.com/15020.html#comment-408285)
 * [30天学习30种新技术系列](http://segmentfault.com/a/1190000000349384)
 * [Jetty服务器架构分析](http://blog.csdn.net/lovingprince/article/details/6202669)
+* [开源中国文档](http://oss.org.cn/ossdocs/framework/spring/)
 
 ### Http & WebSocket
 * [WebSocket协议](https://github.com/zhangkaitao/websocket-protocol)
@@ -68,6 +69,8 @@ Study-Step-by-Step
 * [全面理解面向对象的 JavaScript](http://www.ibm.com/developerworks/cn/web/1304_zengyz_jsoo/)
 * [AngularJs参考指南](http://docs.ngnice.com/guide)
 * [徐飞博客](https://github.com/xufei/blog/tree/master/posts)
+* [AngularJS规范](https://github.com/johnpapa/angular-styleguide/blob/master/i18n/zh-CN.md)
+* [Emmet语法](https://github.com/emmetio/emmet/blob/master/lib/snippets.json)
 
 
 ### 项目构建
@@ -130,3 +133,4 @@ Study-Step-by-Step
 * [Steve Yegge：名词王国中的死刑](http://lc-wangchao.iteye.com/blog/1575984)
 * [Steve Yegge：编程的肮脏小秘密](http://blog.jobbole.com/64959/)
 * [从P1到P7——我在淘宝这7年](http://kb.cnblogs.com/page/132752/)
+* [火龙果](http://www.uml.org.cn/jmshj/jmshj-jm.asp)
